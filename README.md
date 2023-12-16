@@ -4,6 +4,8 @@
 
 EOTD was created with [Kaboom](https://kaboomjs.com).
 
+**[---> DEMO <---](https://marc.codeberg.page/bullethell)**
+
 ### Features
 
 - Trying to kill you: Flying skulls, arrows and spears.
