@@ -1,3 +1,5 @@
+# This is a read-only mirror of the git repo at https://codeberg.org/marc/bullethell
+
 # Evils Of The Dungeon
 
 *Evils Of The Dungeon* (EOTD) is a Bullet Hell game where you play a kid called Bobby. On his way home from baseball training, Bobby is sucked into a portal and wakes up in a dungeon where everything is out to get him. Luckily he has his trusty bat with him which helps him defend off the hordes of evil.
