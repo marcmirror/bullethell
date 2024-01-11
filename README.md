@@ -64,7 +64,7 @@ Will build the game and package it into a .zip file, which can then be uploaded 
 ## Third party assets
 
 - [health-pickup.wav](https://freesound.org/people/KeshaFilm/sounds/471834/) (CC0 1.0)
-- [menu.wav](https://freesound.org/people/BloodPixelHero/sounds/696408/) (CC BY 4.0)
+- [menu.wav](https://freesound.org/people/Engie201/sounds/459152) (CC0 1.0)
 - [bomb-spritesheet.png](https://opengameart.org/content/pixel-art-bomb-animation) (CC0 1.0)
 - [hurt.ogg](https://freesound.org/people/micahlg/sounds/413183/) (CC0 1.0)
 - [bomb-pickup.wav](https://freesound.org/people/el_boss/sounds/665182) (CC0 1.0)
